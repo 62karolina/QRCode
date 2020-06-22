@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QRCode</string>
+    <string name="openContact">Открыть контакты</string>
+    <string name="lookQR">Считать QR</string>
+    <string name="low_storage_error">error</string>
+    <string name="no_camera_permission">no_camera_permission</string>
+    <string name="ok">ok</string>
+    <string name="permission_camera_rationale">camera_rationale</string>
+    <string name="barcode_header">Результат:</string>
+    <string name="auto_focus">автофокус</string>
+    <string name="use_flash">флэш</string>
+    <string name="barcode_error">error</string>
+    <string name="barcode_success">success</string>
+    <string name="barcode_failure">failure</string>
+</resources>
